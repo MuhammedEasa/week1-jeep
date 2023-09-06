@@ -209,7 +209,7 @@
   border-radius: 4px;
 }
 .search-icon {
-  background-image: url('/img/seaech-icon.png');
+  background-image: url('img/seaech-icon.png');
   width: 20px; 
   height: 20px; 
   background-size: cover;
